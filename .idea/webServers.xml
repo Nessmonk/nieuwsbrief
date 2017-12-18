@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e0fafe3-40bc-4285-8794-19759757739a" name="Merlins local server" url="http://localhost/D:\ma college\p1.2\bap\nieuwsbrief\index.php">
+        <fileTransfer port="0" mountedRoot="D:\ma college\p1.2\bap\MAMP\htdocs" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
